@@ -1,6 +1,6 @@
 # Django Image Fit - Resize an image on the fly
 
-[![Build Status](https://api.travis-ci.org/vinyll/django-imagefit.png)](http://travis-ci.org/vinyll/django-imagefit)
+[![Build Status](https://api.travis-ci.org/davidfischer-ch/django-imagefit.png)](http://travis-ci.org/davidfischer-ch/django-imagefit)
 
 Imagefit allows you to render an image in a template and specify its dimensions.
 It preserves the original image file.
@@ -64,7 +64,7 @@ pip install django-imagefit
 or the bleeding edge version
 
 ```
-pip install -e git+https://github.com/vinyll/django-imagefit.git#egg=django-imagefit
+pip install -e git+https://github.com/davidfischer-ch/django-imagefit.git#egg=django-imagefit
 ```
 
 #### update INSTALLED_APPS
